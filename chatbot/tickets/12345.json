@@ -1,0 +1,6 @@
+{ "ticketNumber": "12345",
+    "product_name":"Mobile",
+    "status":"closed",
+    "product_issue":"Return/Replaceent",
+    "ticket_description":"I want to return the product"
+}
