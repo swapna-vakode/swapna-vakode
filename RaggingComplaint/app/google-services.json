@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862648800573",
+    "firebase_url": "https://raggingcomplaint-33.firebaseio.com",
+    "project_id": "raggingcomplaint-33",
+    "storage_bucket": "raggingcomplaint-33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862648800573:android:8d506afa1bf70e678c6154",
+        "android_client_info": {
+          "package_name": "com.example.raggingcomplaint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862648800573-c9vjdgm4b5t9vbpjnqgbijkmvbm7osp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOiZSUefXpg3HWdVO_TRZ0uK5YV3GkrNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862648800573-c9vjdgm4b5t9vbpjnqgbijkmvbm7osp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home5" />
+    <item
+        android:id="@+id/verifyemail"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="@string/verify_email" />
+    <item
+        android:id="@+id/changeprofilepic"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/change_profile_picture" />
+    <item
+        android:id="@+id/resetpassword"
+        android:icon="@drawable/ic_lock_outline_black_24dp"
+        android:title="@string/reset_password"
+        android:visible="false" />
+    <item
+        android:id="@+id/stlogout"
+        android:title="@string/logout" />
+</menu>
